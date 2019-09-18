@@ -42,6 +42,16 @@ a{
   flex: 1 1 auto;
   flex-direction: column;
 }
+.leftbutton{
+  flex-direction: column;
+  padding: 0 20px;
+  text-align: center;
+}
+.rightbutton{
+  flex-direction: column;
+  padding: 0 20px;
+  text-align: center;
+}
 /* .thumbnail-item + .thumbnail-item{
   margin-top: 10px;
 } */
